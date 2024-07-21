@@ -19,3 +19,5 @@ Harnessing the power of data visualization, this dashboard provides key insights
 - **Chart of Genre by Total Shows:** Breakdown of shows by genre.
 - **Total Shows by Release Year:** Track the number of shows released each year.
 
+## Usage
+Use the dashboard to explore and analyze various aspects of Prime Video's streaming data. Customize the visuals and metrics to fit specific analytical needs.
