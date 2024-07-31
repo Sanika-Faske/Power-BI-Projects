@@ -1,4 +1,4 @@
-# 🚀 Unveiling the Power BI Dashboard: Rohit Sharma's Stellar Cricket Performance 🏏
+# 🚀Rohit Sharma's Stellar Cricket Performance 🏏
 
 I'm excited to share a comprehensive Power BI dashboard that showcases the remarkable career of one of cricket's finest – Rohit Sharma. 📊 This Power BI dashboard provides an in-depth analysis of Rohit Sharma's cricket performance. The dashboard aggregates and visualizes data from various matches, offering insights into his batting statistics, performance trends, and key milestones throughout his career.
 
