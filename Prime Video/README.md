@@ -1,4 +1,4 @@
-# Prime Video Dashboard
+# Prime Video Dashboard 🎥
 
 🚀 **Excited to unveil my latest project: Prime Video dashboard built with Power BI!** 🎥📊
 
