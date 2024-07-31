@@ -12,13 +12,13 @@ I'm excited to share a comprehensive Power BI dashboard that showcases the remar
 
 ## 🎯 Dashboard Highlights:
 
-- 📌 **Slicer (Filter) by T20, ODI, and Test Matches**
-- 📌 **Total 50's and 100's**
-- 📌 **Highest Batting Strike Rate and Highest Score**
-- 📌 **Century over Country**
-- 📌 **Run by Year**
-- 📌 **Percentage of Dot Balls by Total Balls**
-- 📌 **6's and 4's by Matches**
+-  **Slicer (Filter) by T20, ODI, and Test Matches**
+-  **Total 50's and 100's**
+-  **Highest Batting Strike Rate and Highest Score**
+-  **Century over Country**
+-  **Run by Year**
+-  **Percentage of Dot Balls by Total Balls**
+-  **6's and 4's by Matches**
 
 🏏 Dive into the world of cricket analytics with this detailed Power BI dashboard on one of the game's greatest batsmen, Rohit Sharma!
 
